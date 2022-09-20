@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="9px" viewBox="0 0 16 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>top-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Secondary_Nav_Mobile_Option1_Page1_A" transform="translate(-291.000000, -607.000000)" fill="#292929">
+            <g id="Buttons" transform="translate(278.000000, 538.000000)">
+                <g id="Top" transform="translate(0.000000, 52.000000)">
+                    <polygon id="top-icon" transform="translate(20.909783, 21.170808) scale(1, -1) translate(-20.909783, -21.170808) " points="20.9097774 25.0903329 21.633051 24.4484179 28.1344097 18.6484058 26.6878834 17.2512825 20.9097774 22.4093554 15.1316819 17.2512825 13.6851556 18.6484058 20.1865143 24.4484179"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
